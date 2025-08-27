@@ -1,40 +1,83 @@
-# 👋 Hi, I'm Lakshya Mutha  
-
-🎓 Final Year B.Tech Student | 💻 Full Stack Web Developer | 🚀 Passionate about Building & Scaling  
+# 👋 I'm Lakshya Mutha  
+🚀 Full Stack Web Developer | 💻 MERN Stack | 🌐 Final Year B.Tech (CSE - AI/ML & DS) | 🧠 Tech Enthusiast  
 
 ---
 
-## 🌟 About Me  
-- 💼 Currently working at **Entrepi**  
-- 🏢 Past experience at **Ideaforge Innovation** and **IIT Roorkee Virtual Lab**  
-- 🎓 Final Year Student (B.Tech, CSE - AI/ML & DS Specialization)  
-- 🛠️ Trained in **Full Stack Web Development**  
-- ⚡ Love working on **eCommerce, simulations, and scalable applications**  
-- 🔍 Interested in **Web Development, System Design, and Emerging Technologies**  
+## 🔥 Currently Working On  
+- 🌐 **Full-stack Projects** (MERN + Tailwind CSS)  
+- 🛒 **E-Commerce Platform** with **Stripe & Razorpay Integration**  
+- ⚡ **Backend API Development** with Node.js + Express.js + MongoDB  
+- 🧠 **Placement Preparation** – DSA + Aptitude + DBMS  
+
+---
+
+## 🌱 Learning & Leveling Up  
+- ⚛️ Advanced React.js & Next.js  
+- 🎨 UI/UX Design with TailwindCSS & ShadCN UI  
+- 🤖 Exploring ML Models with Python (NumPy, Pandas, Scikit-learn)  
+- 🗃️ SQL Joins, Normalization, and Database Design  
+- ⚙️ System Design & Scalable Architectures  
+
+---
+
+## 🤝 Open to Collaborate On  
+- 🌐 Full-stack **Web Development Projects** (MERN / Next.js)  
+- 🧪 **Problem Solving & DSA** practice sessions  
+- 🤖 **ML / AI Projects** (basic models & web integrations)  
+- 🎯 **Hackathons & Freelance Gigs** with real-world impact  
 
 ---
 
 ## 🛠️ Tech Stack  
-**Frontend:** React.js, TailwindCSS, Bootstrap, JavaScript, HTML, CSS  
-**Backend:** Node.js, Express.js, REST APIs  
-**Database:** MongoDB, MySQL  
-**Tools & Platforms:** Git, GitHub, Vercel, Netlify, Cloudinary, Stripe, Razorpay  
+
+**Frontend:**  
+React.js · Next.js · Tailwind CSS · Bootstrap · JavaScript · HTML · CSS  
+
+**Backend:**  
+Node.js · Express.js · REST APIs  
+
+**Databases & Hosting:**  
+MongoDB · MySQL · Cloudinary · Vercel · Netlify  
+
+**Tools & Platforms:**  
+Git · GitHub · VS Code · Postman · Stripe · Razorpay  
 
 ---
 
-## 🚀 Projects  
-- 🛒 **E-Commerce Website (MERN Stack)** – with **Stripe & Razorpay Integration**  
-- 🔌 **Electric Circuit Design Lab (IIT Roorkee Virtual Lab)** – built interactive circuit simulations using JS, jsPlumb, and TailwindCSS  
-- 📊 **Machine Learning Implementations** – built from scratch without using ML libraries  
-- 🎮 **Elevator Pitch Game** – Landing page + event-based mechanics for entrepreneurial problem-solving  
+## 📂 Key Projects  
+- 🛍️ **E-Commerce Website (MERN)** – Full-stack solution with payments (Stripe + Razorpay)  
+- 🔌 **Electric Circuit Design Lab (IIT Roorkee Virtual Lab)** – interactive circuit simulations using jsPlumb + TailwindCSS  
+- 📊 **Iris Dataset ML Project** – implemented classifiers from scratch (no ML libraries)  
+- 🎮 **Elevator Pitch Game** – landing page & event setup for entrepreneurial challenges  
 
 ---
 
-## 📫 Let's Connect  
-- 💼 [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/lakshyamutha/))  
+## 🧠 Skills & Confidence  
+
+| Skill Category         | Tools/Technologies                       | Confidence |
+|-------------------------|-------------------------------------------|------------|
+| Programming Languages   | JavaScript, Python, C++                  | 🔥🔥🔥🔥 |
+| Web Development         | React, Node.js, Express, MongoDB, Tailwind | 🔥🔥🔥🔥🔥 |
+| Databases & SQL         | MongoDB, MySQL, ERD, Joins, Normalization | 🔥🔥🔥🔥 |
+| Tools & Platforms       | Git, GitHub, VS Code, Postman, Cloudinary | 🔥🔥🔥🔥🔥 |
+| Aptitude & Reasoning    | DBMS, OS Basics, Problem Solving          | 🔥🔥🔥🔥 |
+
+---
+
+## 📊 GitHub Stats  
+
+![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthalakshya&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muthalakshya&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muthalakshya&layout=compact&theme=radical)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muthalakshya&theme=react-dark)  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](https://linkedin.com/in/your-linkedin)  
 - 💻 [GitHub](https://github.com/muthalakshya)  
-- ✉️ lakshyamutha04@gmail.com  
+- ✉️ lakshyamutha34@gmail.com  
 
 ---
 
-⭐️ _“Always building, always learning.”_  
+⚡ **Fun Fact**: I turn ☕ into code, and challenges into projects 🚀  
