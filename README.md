@@ -33,7 +33,7 @@
 ## 📫 Let's Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakshyamutha/)
 - 💻 [GitHub](https://github.com/muthalakshya)  
-- ✉️ lakshyamutha04@gmail.com  
+- ✉️ lakshya.mutha04@gmail.com  
 
 ---
 
