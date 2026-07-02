@@ -1,67 +1,60 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=220&section=header&text=Lakshya%20Mutha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%40%20Prospire%20Technology&descAlignY=55"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Prospire+Technology;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀"/>
+
+</div>
+
+---
+
 # About Me
 
-🎓 B.Tech Graduate in **Computer Science (Data Science)**
+I'm a **Software Engineer at Prospire Technology** with a passion for building scalable web applications, enterprise software, and intuitive user experiences.
 
-💼 Software Engineer at **Prospire Technology**
-
-🚀 Passionate about building scalable, user-centric web applications and enterprise software.
-
-💡 Interested in:
-
-- Full Stack Development
-- System Design
-- Cloud Computing
-- Backend Engineering
-- Modern Web Technologies
-
-🌱 Currently exploring:
-
-- TypeScript
-- Docker
-- AWS
-- Scalable System Design
+- 🎓 B.Tech Graduate in **Computer Science (Data Science)**
+- 💼 Software Engineer at **Prospire Technology**
+- 🌐 Experienced in Full Stack Web Development
+- 🚀 Passionate about scalable systems and clean architecture
+- 📚 Constantly learning modern technologies and best engineering practices
 
 ---
 
 # Experience
 
-### Prospire Technology
+## Prospire Technology
 **Software Engineer**
 
 - Building enterprise-grade web applications
 - Developing scalable frontend and backend systems
-- Designing REST APIs
-- Performance optimization and code quality
+- REST API development
+- Performance optimization
+- Code quality and maintainability
 
 ---
 
-### Entrepi
+## Entrepi
 **Full Stack Developer**
 
 - Business applications
 - Dashboard development
-- API integration
+- API integrations
 
 ---
 
-### Ideaforge Innovation
+## Ideaforge Innovation
 **Web Developer**
 
-- React applications
+- Modern React applications
 - Responsive UI development
-- Modern frontend architecture
+- Frontend architecture
 
 ---
 
-### IIT Roorkee Virtual Labs
+## IIT Roorkee Virtual Labs
 **Web Developer Intern**
 
-Developed an interactive **Electrical Circuit Design Lab** using:
-
-- JavaScript
-- jsPlumb
-- Tailwind CSS
-- HTML & CSS
+Built an interactive **Electrical Circuit Design Lab** using JavaScript and jsPlumb to enhance virtual engineering education.
 
 ---
 
@@ -91,7 +84,7 @@ Developed an interactive **Electrical Circuit Design Lab** using:
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### Tools
+### Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
@@ -103,22 +96,22 @@ Developed an interactive **Electrical Circuit Design Lab** using:
 
 ## MERN E-Commerce Platform
 
-- Authentication & Authorization
-- Admin Dashboard
-- Stripe & Razorpay Integration
-- Product & Order Management
+- Complete authentication & authorization
+- Admin dashboard
+- Stripe & Razorpay integration
+- Product & Order management
 - Responsive UI
 
 ---
 
 ## Electrical Circuit Design Lab
 
-Built for **IIT Roorkee Virtual Labs**
+Developed for **IIT Roorkee Virtual Labs**
 
-- Interactive circuit simulations
-- JavaScript & jsPlumb
+- Interactive circuit simulation
 - Drag-and-drop components
-- Real-time circuit visualization
+- Real-time visualization
+- JavaScript & jsPlumb
 
 ---
 
@@ -126,8 +119,8 @@ Built for **IIT Roorkee Virtual Labs**
 
 - Secure file sharing
 - REST API integration
-- Modern React interface
-- Fast and reliable uploads
+- Responsive interface
+- Optimized performance
 
 ---
 
@@ -142,7 +135,7 @@ Built for **IIT Roorkee Virtual Labs**
 
 # Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://www.linkedin.com/in/lakshyamutha">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -164,10 +157,18 @@ Built for **IIT Roorkee Virtual Labs**
 
 ---
 
+# Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/muthalakshya/muthalakshya/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
+</p>
+
+---
+
 <div align="center">
 
-### Building software that solves real-world problems with clean architecture and exceptional user experiences.
-
-⭐ Thanks for visiting my profile!
+### *Building software that solves real-world problems through clean architecture and exceptional user experiences.*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:7C3AED&height=120&section=footer"/>
