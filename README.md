@@ -1,84 +1,71 @@
-<div align="center">
+# About Me
 
-# Hi 👋, I'm Lakshya Mutha
+🎓 B.Tech Graduate in **Computer Science (Data Science)**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+Prospire+Technology;Full+Stack+Web+Developer;React+%7C+Node.js+%7C+TypeScript;Building+Scalable+Web+Applications;Always+Learning+New+Technologies+🚀" />
+💼 Software Engineer at **Prospire Technology**
 
-<br>
+🚀 Passionate about building scalable, user-centric web applications and enterprise software.
 
-<img src="https://komarev.com/ghpvc/?username=muthalakshya&style=for-the-badge&color=blue" />
+💡 Interested in:
 
-<img src="https://img.shields.io/github/followers/muthalakshya?style=for-the-badge"/>
+- Full Stack Development
+- System Design
+- Cloud Computing
+- Backend Engineering
+- Modern Web Technologies
 
-<img src="https://img.shields.io/github/stars/muthalakshya?style=for-the-badge"/>
-
-</div>
-
----
-
-# 👨‍💻 About Me
-
-🎓 **B.Tech Graduate in Computer Science (Data Science)**
-
-💼 **Software Engineer @ Prospire Technology**
-
-🚀 Passionate about designing scalable web applications and enterprise software.
-
-💡 Strong interest in **System Design**, **Cloud Computing**, **Backend Engineering**, and **Modern Web Technologies**.
-
-🌱 Currently learning
+🌱 Currently exploring:
 
 - TypeScript
 - Docker
 - AWS
-- System Design
-- Scalable Architecture
+- Scalable System Design
 
 ---
 
-# 💼 Experience
+# Experience
 
-### 🏢 Software Engineer
-**Prospire Technology**
+### Prospire Technology
+**Software Engineer**
 
 - Building enterprise-grade web applications
-- Developing scalable frontend & backend systems
-- REST API Development
-- Performance Optimization
+- Developing scalable frontend and backend systems
+- Designing REST APIs
+- Performance optimization and code quality
 
 ---
 
-### 💻 Full Stack Developer
-**Entrepi**
+### Entrepi
+**Full Stack Developer**
 
-- Business Applications
-- Dashboard Development
-- API Integration
-
----
-
-### 🌐 Web Developer
-**Ideaforge Innovation**
-
-- Frontend Development
-- Responsive UI
-- Modern React Applications
+- Business applications
+- Dashboard development
+- API integration
 
 ---
 
-### 🎓 Web Developer Intern
-**IIT Roorkee Virtual Labs**
+### Ideaforge Innovation
+**Web Developer**
 
-Built an interactive Electrical Circuit Design Lab using
+- React applications
+- Responsive UI development
+- Modern frontend architecture
+
+---
+
+### IIT Roorkee Virtual Labs
+**Web Developer Intern**
+
+Developed an interactive **Electrical Circuit Design Lab** using:
 
 - JavaScript
 - jsPlumb
-- HTML/CSS
-- TailwindCSS
+- Tailwind CSS
+- HTML & CSS
 
 ---
 
-# 🚀 Tech Stack
+# Tech Stack
 
 ### Languages
 
@@ -112,104 +99,53 @@ Built an interactive Electrical Circuit Design Lab using
 
 ---
 
-# 🚀 Featured Projects
+# Featured Projects
 
-### 🛒 MERN E-Commerce Platform
+## MERN E-Commerce Platform
 
-✔ Authentication
-
-✔ Admin Dashboard
-
-✔ Stripe Integration
-
-✔ Razorpay Integration
-
-✔ Product & Order Management
+- Authentication & Authorization
+- Admin Dashboard
+- Stripe & Razorpay Integration
+- Product & Order Management
+- Responsive UI
 
 ---
 
-### 🔌 Electrical Circuit Design Lab
+## Electrical Circuit Design Lab
 
-Interactive virtual laboratory developed for **IIT Roorkee** using JavaScript and jsPlumb.
+Built for **IIT Roorkee Virtual Labs**
 
----
-
-### 📂 File Transfer Application
-
-Secure file transfer platform with responsive frontend and REST API integration.
-
----
-
-### 🤖 Machine Learning Projects
-
-Built ML algorithms from scratch along with predictive analytics implementations.
+- Interactive circuit simulations
+- JavaScript & jsPlumb
+- Drag-and-drop components
+- Real-time circuit visualization
 
 ---
 
-# 📈 GitHub Analytics
+## File Transfer Application
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=muthalakshya&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=muthalakshya&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muthalakshya&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Secure file sharing
+- REST API integration
+- Modern React interface
+- Fast and reliable uploads
 
 ---
 
-# 📊 Contribution Graph
+## Machine Learning Projects
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=muthalakshya&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=muthalakshya&theme=algolia&row=2&column=4&no-frame=true"/>
-
-</div>
+- ML algorithms from scratch
+- Predictive analytics
+- Data preprocessing
+- Model evaluation
 
 ---
 
-# 🌟 Highlights
+# Connect With Me
 
-✅ Software Engineer @ Prospire Technology
-
-✅ B.Tech Graduate (Data Science)
-
-✅ Full Stack Web Developer
-
-✅ MERN Stack
-
-✅ Enterprise Application Development
-
-✅ REST API Development
-
-✅ 1300+ GitHub Contributions (Last Year)
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
+<p>
 
 <a href="https://www.linkedin.com/in/lakshyamutha">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:lakshya.mutha04@gmail.com">
@@ -217,11 +153,11 @@ Built ML algorithms from scratch along with predictive analytics implementations
 </a>
 
 <a href="https://github.com/muthalakshya">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://lakshya-mutha.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
@@ -230,9 +166,7 @@ Built ML algorithms from scratch along with predictive analytics implementations
 
 <div align="center">
 
-## 💭 Quote
-
-> **"Building software that solves real-world problems through clean architecture, scalable systems, and exceptional user experiences."**
+### Building software that solves real-world problems with clean architecture and exceptional user experiences.
 
 ⭐ Thanks for visiting my profile!
 
